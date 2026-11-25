@@ -57,7 +57,7 @@ const AdminLayout = () => {
           </div>
           <div>
             <h2 className="font-bold text-sm text-foreground">Admin CBT</h2>
-            <p className="text-xs text-muted-foreground">SMPN 1 Purbalingga</p>
+            <p className="text-xs text-muted-foreground">SMPN 4 Satu Atap Karangjambu</p>
           </div>
           <button className="ml-auto lg:hidden" onClick={() => setSidebarOpen(false)}>
             <X className="w-5 h-5" />
