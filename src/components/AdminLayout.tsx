@@ -51,10 +51,9 @@ const AdminLayout = () => {
           sidebarOpen ? "translate-x-0" : "-translate-x-full"
         )}
       >
-        <div className="p-5 border-b border-border flex items-center gap-3">
-          <div className="w-9 h-9 bg-primary/10 rounded-lg flex items-center justify-center">
-            <Shield className="w-5 h-5 text-primary" />
-          </div>
+        <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center shrink-0 overflow-hidden">
+  <img src="/logo-sekolah.png" alt="Logo Sekolah" className="w-10 h-10 object-contain" />
+</div>
           <div>
             <h2 className="font-bold text-sm text-foreground">Admin CBT</h2>
             <p className="text-xs text-muted-foreground">SMPN 4 Satu Atap Karangjambu</p>
