@@ -52,7 +52,7 @@ const AdminLayout = () => {
         )}
       >
         <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center shrink-0 overflow-hidden">
-  <img src="/logo-sekolah.png" alt="Logo Sekolah" className="w-10 h-10 object-contain" />
+  <img src="/logo%20spenasa%20png.png" alt="Logo Sekolah" className="w-10 h-10 object-contain" />
 </div>
           <div>
             <h2 className="font-bold text-sm text-foreground">Admin CBT</h2>
